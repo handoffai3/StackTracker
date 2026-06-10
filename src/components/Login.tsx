@@ -242,16 +242,7 @@ const Login: React.FC = () => {
                             </p>
                         </div>
 
-                        {/* Demo Helper Block */}
-                        <div className="mt-lg p-sm bg-[#10131A] border border-[#2D3748] rounded-xl text-center">
-                            <p className="font-label-md text-[11px] text-[#94A3B8] uppercase tracking-wider mb-xs font-bold">Demo Login</p>
-                            <p className="font-body-md text-[12px] text-on-surface-variant">
-                                Email: <strong className="text-on-surface">admin@stacktracker.com</strong>
-                            </p>
-                            <p className="font-body-md text-[12px] text-on-surface-variant">
-                                Password: <strong className="text-on-surface">password</strong>
-                            </p>
-                        </div>
+
 
                     </div>
                 </div>
